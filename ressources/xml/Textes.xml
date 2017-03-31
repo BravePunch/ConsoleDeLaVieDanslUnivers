@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<variable name="GeanteBleue">
+		<p align='center'><b><font size='+10' color='#000033'>Géante Bleue</font></b></p><br /><p>Une géante bleue est une étoile très chaude, très brillante et très massive qui fait plus de 18 fois la taille du Soleil, ayant une couleur bleue caractéristique. Les géantes bleue ont une température de 19726 degré Celsius à leur surface. A cause de leur très grande masse, les géantes bleue consomment très vite leur hydrogène, et ont donc une durée de vie courte entre 10 et 100 millions d’années (Enfin, courte pour une étoile).</p><p>Certaines des étoiles les plus brillantes visibles dans le ciel sont des géantes bleues comme Rigel
+	</variable>
+	<variable name="SuperGeanteRouge">
+		<p align='center'><b><font size='+10' color='#000033'>Supergéantes rouges </font></b></p><br /><p align='justify'>Les supergéantes rouges sont des étoiles relativement massives qui sont en train de terminer leur phase de séquence principale. En d'autres termes, elles ont consommé l'ensemble de leur hydrogène dans leur cœur. A cause de cela, l’enveloppe de l’étoile s’étend considérablement, et peux atteindre de 30 à 500 fois la taille de notre Soleil, mais en contrepartie sa température baisse, ce qui lui donne sa couleur rouge comme Betelgeuse</p>
+	</variable>
+	<variable name="GeanteRouge">
+		<p align='center'><b><font size='+10' color='#000033'>Géantes rouges </font></b></p><br /><p align='justify'>Les géantes rouges sont d'énormes étoiles de 1 à 1000 fois plus grandes que notre Soleil, et sont formées à partir de naines jaunes en fin de vie. Les naines jaunes, après avoir brulé tout l'hydrogène de leur noyau, se mettent à grossir, mais se faisant l'étoile perd en chaleur, ce qui lui donne sa couleur rouge caractéristique.</p><p align='justify'>Les géantes rouges ont des températures comprise entre 1700 et 3000 °C.</p>
+	</variable>
+	<variable name="NaineJaune">
+		<p align='center'><b><font size='+10' color='#000033'>Naines jaunes </font></b></p><br /><p align='justify'>Les naines jaunes sont les étoiles semblables au Soleil, avec une masse entre 0,7 et 1,2 fois celle de notre Soleil, et elles représentent environ 10 % des étoiles de la voie lactée.<br />Ces étoiles ont une durée de vie de 10 milliards d'années. A la fin de leur vie, les naines jaunes se mettent à grossir pour devenir des géantes rouges, puis plus tard s'effondrent sur elles mêmes pour former des naines blanches.</p><p align='justify'>Les naines jaunes comme notre Soleil ont des températures comprise entre 5000 et 6000 °C.</p>
+	</variable>
+	<variable name="NainesBlanches">
+		<p align='center'><b><font size='+10' color='#000033'>Naines blanches </font></b></p><br /><p align='justify'>Une naine blanche est une étoile similaire au Soleil qui à consommer tout son carburant, et qui après être passé par le stade d’étoile géante, se contracte au point de devenir une petite sphère blanche de la dimension d’une planète, d’une taille d’environ 5000 à 50000 kilomètres de diamètre. Durant cette contraction, l’étoile laisse derrière elle des gaz qui forment ce que l’on appelle une nébuleuse planétaire. La température en surface d’une naine blanche peut varier de 149 726 °C à 3 726 °C, bien qu’en général elle soit comprise entre 39 726 °C et 7 726 °C. L’étoile la plus chaude au moment de sa contraction, mais ensuite elle finit par se refroidir petit à petit avant de disparaître. </p><p align='justify'>Sirius est une étoile double composée d'une étoile blanche (Sirius A) de la séquence principale et d'une naine blanche (Sirius B) qui est beaucoup plus petite que sa compagne</p>
+	</variable>
+	<variable name="NaineRouge">
+		<p align='center'><b><font size='+10' color='#000033'>Naines rouges </font></b></p><br /><p align='justify'>Les naines rouges sont les étoiles les moins massives : leur masse est 0,08 à 0,3 fois inférieure à celle du Soleil. Environ 80 % des étoiles observées sont des naines rouges, mais aucune n'est visible à l'œil nu depuis la terre.<br />Grâce à leur faible masse, les naines rouges consomment très lentement leur hydrogène, ce qui leur donne une longue durée de vie, estimée entre quelques dizaines et 1000 milliards d'années. Cette durée de vie est si longue qu'il ne s'est pas encore passé suffisamment de temps depuis le Big Bang pour que quiconque ait pu observer la fin de vie d'une naine rouge.</p><p align='justify'>Les naines rouges ont des températures comprise entre 2200 et 4700 °C.</p>
+	</variable>
+	<variable name="NaineBrune">
+		<p align='center'><b><font size='+10' color='#000033'>Naines brunes </font></b></p><br /><p align='justify'>Les naines brunes sont des petits astres entre étoile et planète, qui possèdent une masse entre 0,01 et 0,08 fois celle du Soleil. A cause de leur faible masse, les naines brunes ne parviennent pas à maintenir les réactions nucléaires qui leur permettent de bruler, et génèrent bien moins de lumière que les autres types d'étoiles, ce qui les rendent très difficile à observer.</p><p align='justify'>Les naines brunes ont des températures comprises entre -73 et 2200 °C ce qui est insuffisants pour permettre la vie.</p>
+	</variable>
+
+	<variable name="TypesSpectralO">
+		<p align='center'><b><font size='+10' color='#000033'>Type spectral O</font></b></p><br /><p align='justify'>Les étoiles de ce type spectral sont plutôt rares, et sont extrêmement massives, chaudes et lumineuses (plus de 100 000 fois la luminosité du Soleil). Ces étoiles sont repérables à leur couleur bleue, et leur température dépasse les 24 726 °C et peux atteindre les 49 726 °C et plus.</p>
+	</variable>
+	<variable name="TypesSpectralB">
+		<p align='center'><b><font size='+10' color='#000033'>Type spectral B</font></b></p><br /><p align='justify'>Les étoiles de ce type sont peux communes, et sont très massives, chaudes et lumineuses (plusieurs milliers de fois la luminosité du Soleil). Ces étoiles ont une couleur bleu tirant vers le blanc, et leur température est comprise entre 9 726 °C et 19 726 °C.</p>
+	</variable>
+	<variable name="TypesSpectralA">
+		<p align='center'><b><font size='+10' color='#000033'>Type spectral A</font></b></p><br /><p align='justify'>Les étoiles de ce type sont assez répandues. Ces étoiles sont de couleur blanche, et leur température est comprise entre 7 226 °C et 10 726 °C.</p>
+	</variable>
+	<variable name="TypesSpectralF">
+		<p align='center'><b><font size='+10' color='#000033'>Type spectral F</font></b></p><br /><p align='justify'>Les étoiles de ce type sont très répandues. Ces étoiles sont de couleur jaune-blanche, et leur température est comprise entre 5 726 °C et 7 226 °C.</p>
+	</variable>
+	<variable name="TypesSpectralG">
+		<p align='center'><b><font size='+10' color='#000033'>Type spectral G</font></b></p><br /><p align='justify'>Les étoiles de ce type, dont fait partie notre soleil, sont extrêmement répandues. Ces étoiles sont de couleur jaune, et leur température est comprise entre 4 726 °C et 5 726 °C.</p>
+	</variable>
+	<variable name="TypesSpectralK">
+		<p align='center'><b><font size='+10' color='#000033'>Type spectral K</font></b></p><br /><p align='justify'>Ces étoiles peut lumineuse sont d’une couleur orange, et ont des températures froides comprise entre 3 226 °C et 4 726 °C.</p>
+	</variable>
+	<variable name="TypesSpectralM">
+		<p align='center'><b><font size='+10' color='#000033'>Type spectral M</font></b></p><br /><p align='justify'>Ces étoiles sont très peu lumineuse sont d’une couleur rouge et possèdent les températures les plus froides des étoiles, comprise entre 2 226 °C et 3 226 °C.</p>
+	</variable>
+</data>

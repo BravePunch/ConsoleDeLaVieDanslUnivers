@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<astres>
+	<!--Planètes -->
+	<astre typeetoile="NaineJaune" distanceMIN="0" distanceMAX="1" diametreMIN="0" diametreMAX="0" demigrandaxeMIN="20" demigrandaxeMAX="21" rotationMIN="1392" rotationMAX="1416" plasat="Planete" type="Tellurique" jupiter="Présent" h2oMIN="3" h2oMAX="4" co2MIN="3" co2MAX="4" o2MIN="5" o2MAX="6" n2MIN="3" n2MAX="4" nh3MIN="0" nh3MAX="0" ch4MIN="0" ch4MAX="0" so2MIN="0" so2MAX="0" h2MIN="3" h2MAX="4" heMIN="5" heMAX="6" autregazMIN="72" autregazMAX="78" albedoMIN="9" albedoMAX="11" pressionMIN="0" pressionMAX="0" AdjustEffetSerreMIN="0" AdjustEffetSerreMAX="10">
+		<nom>Mercure</nom>
+		<img>Mercure</img>
+		<text>
+			<p align="justify">Mercure a un diamètre de 4880km, elle est presque 3 fois plus petite que la Terre.</p>
+			<p align="justify">Mais elle est presque aussi dense que notre planète, elle a un sol solide, elle fait partie des planètes telluriques. Elle a une orbite très elliptique avec <b>une excentricité de 20 %</b> ce qui signifie que dans une année, il y a 20% de différence entre la distance au moment où Mercure est la plus éloignée du soleil (aphélie) et au moment où elle est la plus proche du soleil.  Lorsqu’elle arrive en aphélie, on a l’impression que le soleil s’éloigne brutalement. De Mercure le soleil parait trois fois plus gros que de la Terre.</p>
+			<p align="justify">Elle tourne sur elle-même en 176 jours terrestres et une année fait 88 jours terrestres. C'est-à-dire qu’un jour mercurien dure deux ans mercuriens !</p>
+			<p align="justify">Mercure n’a qu’une atmosphère ténue de l’ordre de 10-12 bars soit 0,000 000 000 001 bar.  Ainsi, elle n’a pas de protection contre les météorites et est couverte de cratères, ce qui lui donne un aspect proche de celui de la lune.</p>
+			<p align="justify">Cette faible atmosphère est due à une gravité 3 fois plus faible que celle : exactement 38% de celle de la Terre, En effet sa masse est de 3,3 x 10 ²⁰ tonnes là où la terre pèse 5,9 x10²¹ tonnes, soit 5 % du poids de la terre </p>
+			<p align="justify">Mercure est très proche du soleil, à une distance moyenne de 0.39 unités atmosphériques, elle est donc baignée dans sa luminosité en permanence.</p>
+			<p align="justify">C’est la planète du système solaire la plus soumise aux écarts de températures. Le jour, il fait aux alentours de 430°C et la nuit -210°C</p>
+			<p align="justify">Mercure comme la plupart des planètes tourne d’ouest en est (ce qui fait qu’on y voit le soleil se lever à l’est et se coucher à l’ouest) comme sur Terre.</p>
+			<p align="justify">Elle n’a pas de satellite ni d’anneaux</p>
+			<p align="justify">Son albédo, c'est-à-dire la fraction de lumière qui est réfléchie vers l’espace, est d’environ 10%, c’est donc un objet qui n’est pas très brillant.</p>
+			<p align="justify">Les dernières explorations datent de 2008 par Messenger qui a survolé Mercure deux fois, en révélant sa face cachée. Une mission d’exploration, nommée Bepi Colombo est prévue, lancement en 2016.</p>
+			<p align="justify">La faible atmosphère de mercure est composée d’Oxygène 42 %, Hydrogène 22 %, Hélium 6 %, Sodium 29 %, Autres gaz 1 %</p>
+		</text>
+	</astre>
+	<astre typeetoile="NaineJaune" distanceMIN="0" distanceMAX="1" diametreMIN="0" diametreMAX="0" demigrandaxeMIN="0" demigrandaxeMAX="1" rotationMIN="5800" rotationMAX="5900" plasat="Planete" type="Tellurique" jupiter="Présent" h2oMIN="0" h2oMAX="0" co2MIN="96" co2MAX="97" o2MIN="0" o2MAX="0" n2MIN="3" n2MAX="4" nh3MIN="0" nh3MAX="0" ch4MIN="0" ch4MAX="0" so2MIN="0" so2MAX="0" h2MIN="3" h2MAX="4" heMIN="5" heMAX="6" autregazMIN="0" autregazMAX="1" albedoMIN="63" albedoMAX="67" pressionMIN="88" pressionMAX="92" AdjustEffetSerreMIN="450" AdjustEffetSerreMAX="500">
+		<nom>Venus</nom>
+		<img>Venus</img>
+		<text>
+			<p align="justify">Par sa taille, Vénus ressemble à la Terre, comme une sœur, tellurique, c'est-à-dire, avec un sol solide,  avec ses 12 104 km de diamètre, elle est presque aussi massive que la terre, et pèse 4,8x10²¹ tonnes, soit 80 % du poids de la Terre et sa gravité  est identique à 90% (8,87m/s-2).</p>
+			<p align="justify">Elle a une  orbite presque circulaire, c'est-à-dire qu’elle se trouve toujours à la même distance du soleil (excentricité proche de zéro) mais la comparaison s’arrête là.</p>
+			<p align="justify">Vénus tourne sur elle-même en 243 jours terrestres, et fait le tour du soleil en 224 jours. Elle est à une distance de 0,7 ua du soleil</p>
+			<p align="justify">Venus a une atmosphère de 90 bar, l’air pèse donc 90 fois plus lourd sur Vénus que sur Terre, si on voulait voyager sur Vénus, on serait écrasés comme une crêpe!  Et cette atmosphère essentiellement composée de gaz à effet de serre, c'est-à-dire de gaz qui conserve la chaleur, rend cette atmosphère torride, il fait environ 480°C à la surface de Vénus… </p>
+			<p align="justify">Des nuages d’acide sulfurique engendrent des pluies acides. Les vents soufflent à 300km/h sur Venus. </p>
+			<p align="justify">C’est la seule planète  qui tourne sur elle-même dans le sens inverse des autres planètes, on dit qu’elle tourne dans le sens rétrograde, sur Vénus, on verrait donc le soleil se lever à l’ouest et se coucher à  l’est.</p>
+			<p align="justify">Avec un Albédo de 65% (0.65) c’est l’objet le plus brillant du système solaire, après  la lune et le soleil qui lui a valu le nom « d’étoile du berger »</p>
+			<p align="justify">Son atmosphère est composée de 95% de Dioxyde de Carbone CO2 qui est un gaz à effet de serre. Diazote : N2 : 3,5%, le reste étant essentiellement constitué d’eau.</p>
+		</text>
+	</astre>
+	<astre typeetoile="NaineJaune" distanceMIN="1" distanceMAX="1" diametreMIN="1" diametreMAX="1" demigrandaxeMIN="1" demigrandaxeMAX="2" rotationMIN="24" rotationMAX="24" plasat="Planete" type="Tellurique" jupiter="Présent" h2oMIN="0" h2oMAX="0" co2MIN="0" co2MAX="0" o2MIN="20" o2MAX="22" n2MIN="77" n2MAX="79" nh3MIN="0" nh3MAX="0" ch4MIN="0" ch4MAX="0" so2MIN="0" so2MAX="0" h2MIN="0" h2MAX="0" heMIN="0" heMAX="0" autregazMIN="0" autregazMAX="3" albedoMIN="30" albedoMAX="32" pressionMIN="1" pressionMAX="1" AdjustEffetSerreMIN="30" AdjustEffetSerreMAX="40">
+		<nom>Terre</nom>
+		<img>Terre</img>
+		<text>
+			<p align="justify">La Terre, notre planète bleue, recouverte d’eau à 70% de sa surface, a un diamètre de 12 752km. </p>
+			<p align="justify">Tournant sur elle-même en 24 heures, elle fait le tour du soleil en 365,25 jours, ce qui nous vaut les années bissextiles</p>
+			<p align="justify">Avec une atmosphère d’un bar qui la protège de la plupart d’astéroïdes qui y entrent, car le frottement avec l’atmosphère les chauffe tellement qu’ils brulent avant d’atteindre le sol notre belle planète a une température moyenne de 15°C mais des écarts pouvant aller de -88°C à 58°C.</p>
+			<p align="justify">Les saisons dans ses deux hémisphères sont dues à son inclinaison de 23°. En effet, l’hémisphère nord reçoit plus de chaleur du soleil en été, car il est incliné vers le soleil à cette période, mais en hiver, c’est l’hémisphère sud qui reçoit le plus de chaleur, ce qui fait que de l’autre coté du monde, il fait froid en été et chaud en hiver. Son orbite est légèrement elliptique, avec une excentricité de 1,7 %, c'est-à-dire qu’il y a une infime différence d’1,7% entre le moment où elle est la plus proche du soleil et le moment où elle est la plus éloignée.</p>
+			<p align="justify">Sa gravité est de 9,81m/s pour une masse de 5,9x10²¹ tonnes.</p>
+			<p align="justify">La Terre a un satellite : la lune, qui orbite à 384 400 km d’elle, et à qui on doit les marées.</p>
+			<p align="justify">Son albédo moyen,  c'est-à-dire la fraction de lumière qui est réfléchie vers l’espace est de 31%.</p>
+			<p align="justify">Son atmosphère est composée de 21% de dioxygène, et de 78% d’azote, et d’1% d’autres gaz, dont du dioxyde de carbone, responsable de l’effet de serre.</p>
+			<p align="justify">La Terre, nous la connaissons bien, c'est là que se trouvent toutes les formes de vies connues à ce jour.</p>
+		</text>
+	</astre>
+	<astre typeetoile="NaineJaune" distanceMIN="1" distanceMAX="2" diametreMIN="0" diametreMAX="1" demigrandaxeMIN="8" demigrandaxeMAX="10" rotationMIN="24" rotationMAX="25" plasat="Planete" type="Tellurique" jupiter="Présent" h2oMIN="0" h2oMAX="0" co2MIN="94" co2MAX="96" o2MIN="0" o2MAX="0" n2MIN="2" n2MAX="4" nh3MIN="0" nh3MAX="0" ch4MIN="0" ch4MAX="0" so2MIN="0" so2MAX="0" h2MIN="0" h2MAX="0" heMIN="0" heMAX="0" autregazMIN="0" autregazMAX="4" albedoMIN="16" albedoMAX="18" pressionMIN="0" pressionMAX="0" AdjustEffetSerreMIN="0" AdjustEffetSerreMAX="5">
+		<nom>Mars</nom>
+		<img>Mars</img>
+		<text>
+			<p align="justify">Mars est la 4ème planète la plus proche du soleil, à une distance moyenne de 1.52  unités astronomique.</p>
+			<p align="justify">Mars a un sol solide, elle fait partie des planètes telluriques, son sol est uniformément rouge, ce qui indique que le fer qui constitue principalement le sol de la planète a rouillé par le passé, ce qui confirme la présence d'eau, en quelque sorte, Mars est une planète rouillée...</p>
+			<p align="justify">Avec un diamètre de 6 779 km, elle est presque 2 fois plus petite que la Terre, mais elle ne fait que 10 % du poids de la terre avec ses 6x10²¹ tonnes.</p>
+			<p align="justify">Son orbite est elliptique avec une excentricité de 9%, c'est-à-dire qu’il y a 9% de différence entre la distance au moment où Mars est et la plus éloignée  du soleil et au moment où elle est la plus proche du soleil.  </p>
+			<p align="justify">Elle tourne sur elle-même en 24h39 heures terrestres et une année fait 687 jours terrestres. </p>
+			<p align="justify">Mars n’a qu’une atmosphère ténue de l’ordre de 6x10-3 bars soit 0,006 bar.  Ainsi, elle n’a pas de protection contre les météorites et est couverte de cratères. </p>
+			<p align="justify">Cette faible atmosphère est due à une gravité 3 fois plus faible que celle de la Terre : exactement 38% de celle de la Terre.</p>
+			<p align="justify">La température moyenne à la surface de mars est de -63°C, avec toutefois des températures maximales de 20°C.</p>
+			<p align="justify">Mars comme la plupart des planètes tourne d’ouest en est (ce qui fait qu’on y voit le soleil se lever à l’est et se coucher à l’ouest) comme sur Terre.</p>
+			<p align="justify">Elle a deux satellites phobos et deimos, elle n’a pas d’anneaux qui tirent leurs noms des dieux grecs respectivement  de la terreur et de la crainte, fils du dieu de la guerre (Arès chez les grecs, Mars chez les romains)</p>
+			<p align="justify">Son albédo, c'est-à-dire la fraction de lumière qui est réfléchie vers l’espace, est d’environ 17%, c’est donc un objet qui n’est pas très brillant.</p>
+			<p align="justify">L'atmosphère de mars est composée de 95 % de CO2, 3 % de diazote, et 2 % d'autres gaz.</p>
+			<p align="justify">Une mission est en cours sur Mars, le robot curiosity, prélève des échantillons de sol martien, il a confirmé la présence d'eau passée car il a trouvé des sédiments, il y a encore de l'eau sous forme de glace sur Mars, et il n'est pas impossible qu'il en reste sous forme liquide dans les sous sols de la planète.... Curiosity, est un robot à la mode qui fait des selfies et qui a joué « joyeux anniversaire » un an après son arrivé à la surface de Mars grâce à ses instruments de mesure.</p>
+			<p align="justify">L'histoire de Mars laisse supposer l'existence passée ou présente de forme de vie...</p>
+		</text>
+	</astre>
+	<astre typeetoile="NaineJaune" distanceMIN="5" distanceMAX="6" diametreMIN="3" diametreMAX="4" demigrandaxeMIN="3" demigrandaxeMAX="5" rotationMIN="9" rotationMAX="11" plasat="Planete" type="Gazeuse" jupiter="Présent" h2oMIN="0" h2oMAX="0" co2MIN="0" co2MAX="0" o2MIN="0" o2MAX="0" n2MIN="0" n2MAX="0" nh3MIN="0" nh3MAX="0" ch4MIN="0" ch4MAX="0" so2MIN="0" so2MAX="0" h2MIN="88" h2MAX="90" heMIN="9" heMAX="11" autregazMIN="0" autregazMAX="3" albedoMIN="50" albedoMAX="54" pressionMIN="100" pressionMAX="100" AdjustEffetSerreMIN="0" AdjustEffetSerreMAX="500">
+		<nom>Jupiter</nom>
+		<img>Jupiter</img>
+		<text>
+			<p align="justify">Jupiter est la plus grosse planète de notre système solaire, avec un diamètre de 139 822km, elle est 11fois plus grosse que la terre..Elle est deux fois et demi aussi massive que toutes les autres planètes du système solaire réunies ! Elle pèse 1 898,6.1021 tonnes soit 318 fois plus que la Terre. </p>
+			<p align="justify">Jupiter est une planète gazeuse son sol n’est pas solide, elle fait partie des planètes gazeuses, certains parlent d'elle comme d'une étoile ratée... en effet son cœur est très chaud, jusqu'à 30 000  degrés, et si elle avait été plus massive elle aurait pu devenir une étoile. Elle a au moins 64 satellites qui lui tourne autour, à l'image d'un système solaire miniature, dotée d'anneaux trop sombres pour être vus avec des appareils classique, son orbite est légèrement elliptique avec une excentricité de 4%, c'est-à-dire qu’il y a 4% de différence entre la distance au moment où Mercure est la plus éloignée du soleil et au moment où elle est la plus proche du soleil.  </p>
+			<p align="justify">Elle tourne sur elle-même en 9h55min c’est une planète qui tourne sur elle-même très vite, ce qui engendre des vents très forts (jusqu'à 400 km/h) a sa surface, les phénomènes atmosphériques sont impressionnants, ainsi une tache anticyclonique observée il y a 350 ans est toujours en activité, avec un diamètre de plus de 16 000 km  c’est-à-dire plus grand que la Terre !</p>
+			<p align="justify">L’atmosphère est stratifiée (elle a plusieurs couches) de pressions différentes.</p>
+			<p align="justify">Jupiter est 5 fois plus éloignée du soleil que la Terre, à une distance moyenne de 5.20 unités astronomiques.</p>
+			<p align="justify">Avec une pression supérieure à 1000 bars, en moyenne, Sa température varie beaucoup en fonction de la profondeur dans la planète, tout comme sa pression. </p>
+			<p align="justify">Elle tourne d’ouest en est (ce qui fait qu’on y voit le soleil se lever à l’est et se coucher à l’ouest) comme sur Terre.</p>
+			<p align="justify">Son albédo, c'est-à-dire la fraction de lumière qui est réfléchie vers l’espace, est d’environ 52%, c’est donc un objet qui est assez brillant.</p>
+			<p align="justify">La sonde Cassini a permis d'observer l'atmosphère de Jupiter, mais c'est surtout Galiléo en 1989, qui orbite autour de Jupiter, et a pu faire des mesures jusqu'en 2003.</p>
+		</text>
+	</astre>
+	<astre typeetoile="NaineJaune" distanceMIN="9" distanceMAX="10" diametreMIN="1" diametreMAX="1" demigrandaxeMIN="4" demigrandaxeMAX="6" rotationMIN="10" rotationMAX="11" plasat="Planete" type="Gazeuse" jupiter="Présent" h2oMIN="0" h2oMAX="0" co2MIN="0" co2MAX="0" o2MIN="0" o2MAX="0" n2MIN="0" n2MAX="0" nh3MIN="0" nh3MAX="0" ch4MIN="0" ch4MAX="0" so2MIN="0" so2MAX="0" h2MIN="95" h2MAX="97" heMIN="2" heMAX="4" autregazMIN="0" autregazMAX="3" albedoMIN="45" albedoMAX="49" pressionMIN="100" pressionMAX="100" AdjustEffetSerreMIN="0" AdjustEffetSerreMAX="500">
+		<nom>Saturne</nom>
+		<img>Saturne</img>
+		<text>
+			<p align="justify">Saturne, la belle planète aux anneaux, accompagnée d'au moins 62 satellites ! On a longtemps cru qu'elle était la seule à en posséder, en réalité il y a de la glace dans ses anneaux, qui les rendent brillants, on peut donc les voir avec un télescope, très facilement. Planète gazeuse à l'image de Jupiter, son sol n'est pas solide. Elle est plus petite que Jupiter mais tout de même dix fois plus grosse que la Terre avec  un diamètre de 120 400km ! </p>
+			<p align="justify">Mais malgré sa taille, elle ne fait que 568,4.1021 tonnes, c'est à dire seulement 95 fois plus lourde que la Terre, si une piscine assez grande pour la contenir, Saturne pourrait y flotter.</p>
+			<p align="justify">Son orbite est légèrement elliptique avec une excentricité de 5%, c'est-à-dire qu’il y a 5% de différence entre la distance au moment où Saturne est la plus éloignée du soleil et au moment où elle est la plus proche du soleil.  </p>
+			<p align="justify">Elle tourne sur elle-même en 10h14 min c’est une planète qui tourne sur elle-même très vite, ce qui génère des vents très forts.</p>
+			<p align="justify">L’atmosphère est stratifié (elle a plusieurs couches), et son coeur est si chaud qu'il avoisine les 12 000°C en surface la température est de -167°C.</p>
+			<p align="justify">Saturne est éloignée du soleil de 9,5 unité astronomique, c'est-à-dire qu'elle est 9 fois et demie plus éloignée du soleil que la Terre.</p>
+			<p align="justify">Son albédo, c'est-à-dire la fraction de lumière qui est réfléchie vers l’espace, est d’environ 47 %, c’est donc un objet assez brillant.</p>
+			<p align="justify">La sonde Cassini observera Saturne jusqu'en 2017.</p>
+		</text>
+	</astre>
+	<astre typeetoile="NaineJaune" distanceMIN="19" distanceMAX="20" diametreMIN="1" diametreMAX="2" demigrandaxeMIN="4" demigrandaxeMAX="6" rotationMIN="17" rotationMAX="19" plasat="Planete" type="Gazeuse" jupiter="Présent" h2oMIN="0" h2oMAX="0" co2MIN="0" co2MAX="0" o2MIN="0" o2MAX="0" n2MIN="0" n2MAX="0" nh3MIN="0" nh3MAX="0" ch4MIN="1" ch4MAX="3" so2MIN="0" so2MAX="0" h2MIN="80" h2MAX="84" heMIN="14" heMAX="16" autregazMIN="0" autregazMAX="5" albedoMIN="50" albedoMAX="52" pressionMIN="100" pressionMAX="100" AdjustEffetSerreMIN="0" AdjustEffetSerreMAX="500">
+		<nom>Uranus</nom>
+		<img>Uranus</img>
+		<text>
+			<p align="justify">Uranus,  géante gazeuse, qui roule autour du soleil, au lieu de tourner comme une toupie comme les autres planètes. C'est la seule planète du système solaire ainsi penchée sans qu'on sache exactement pourquoi. Dotée de fins anneaux sombres, elle comporte au moins 22 satellites !  </p>
+			<p align="justify">Elle possède un noyau brulant à une température proche de 7000°C avec une pression supérieure à  1000 bars La taille de ce noyau serait d'environ 15000km de diamètre, certains prétendent qu'il pourrait y avoir des océans de diamants sur Uranus. </p>
+			<p align="justify">Elle est 4 fois plus grosse que la Terre avec  un diamètre de 51 118km. Elle pèse 102,4.1021 t tonnes c'est à dire presque 17 fois plus massive que la Terre. Comparée à Uranus, qui lui ressemble beaucoup Neptune est à peine plus petite mais plus massive qu'Uranus</p>
+			<p align="justify">Son orbite est légèrement elliptique avec une excentricité de 5%, c'est-à-dire qu’il y a 5% de différence entre la distance au moment où Uranus est la plus éloignée du soleil et au moment où elle est la plus proche du soleil.  </p>
+			<p align="justify">Elle tourne sur elle-même en 16h06 min et est soumise à des vents de plus de 2000 km/h</p>
+			<p align="justify">Uranus est éloignée du soleil de 19, unités astronomiques, c'est-à-dire qu'elle est 19 fois plus éloignée du soleil que la Terre.</p>
+			<p align="justify">Sur Uranus la température est de -220°C</p>
+			<p align="justify">Son albédo, c'est-à-dire la fraction de lumière qui est réfléchie vers l’espace, est d’environ 51 %, c’est donc un objet assez brillant.</p>
+			<p align="justify">Sur Uranus la durée de l'été et de l'hiver correspondent à la durée des jours et des nuits, le soleil n'apparait jamais en hiver.</p>
+			<p align="justify">Son atmosphère est composée de 82 % de dihydrogène, de 15 % d'hélium, de 2 % de méthane, et d'1 % d'autres gaz. C'est le méthane qui donne sa couleur bleue-verte à la planète.</p>
+			<p align="justify">La seule observation d'Uranus pour l'instant a été réalisée par Voyager 2.</p>
+		</text>
+	</astre>
+	<astre typeetoile="NaineJaune" distanceMIN="30" distanceMAX="31" diametreMIN="1" diametreMAX="2" demigrandaxeMIN="0" demigrandaxeMAX="2" rotationMIN="15" rotationMAX="17" plasat="Planete" type="Gazeuse" jupiter="Présent" h2oMIN="0" h2oMAX="0" co2MIN="0" co2MAX="0" o2MIN="0" o2MAX="0" n2MIN="0" n2MAX="0" nh3MIN="0" nh3MAX="0" ch4MIN="0" ch4MAX="2" so2MIN="0" so2MAX="0" h2MIN="78" h2MAX="82" heMIN="17" heMAX="19" autregazMIN="0" autregazMAX="5" albedoMIN="50" albedoMAX="41" pressionMIN="100" pressionMAX="100" AdjustEffetSerreMIN="0" AdjustEffetSerreMAX="500">
+		<nom>Neptune</nom>
+		<img>Neptune</img>
+		<text>
+			<p align="justify">Neptune,  8ème planète à partir du soleil, c'est la plus éloignée des géantes gazeuses, d'une belle couleur bleue intense due à son atmosphère de surface composée de méthane, elle a été découverte  grâce à de calculs mathématiques. Dotée de fins anneaux sombres, elle comporte au moins 13 satellites !  </p>
+			<p align="justify">Elle possède un noyau brulant à plus de 7000°C d'environ 14000km de diamètre de fer et de silicate, certains prétendent qu'il pourrait y avoir des océans de diamants sur Neptune </p>
+			<p align="justify">Elle est  presque 4 fois plus grosse que la Terre avec  un diamètre de 51 118km. Elle pèse 86,8x10²¹ tonnes c'est à dire presque 15 fois plus massive que la Terre.</p>
+			<p align="justify">Son orbite est très circulaire avec une excentricité d'à peine 1%, c'est-à-dire qu’il y a 1% de différence entre la distance au moment où Uranus est la plus éloignée du soleil et au moment où elle est la plus proche du soleil.  </p>
+			<p align="justify">Elle tourne sur elle-même en 17h52 min.</p>
+			<p align="justify">Neptune est éloignée du soleil de 30 unités astronomiques, c'est-à-dire qu'elle est 30 fois plus éloignée du soleil que la Terre.</p>
+			<p align="justify">Sur Neptune la température est de -220°C</p>
+			<p align="justify">Son albédo, c'est-à-dire la fraction de lumière qui est réfléchie vers l’espace, est d’environ 41 %, c’est donc un objet assez brillant.</p>
+			<p align="justify">Neptune possède une grande tache bleue sombre de 13 000 km qui est un phénomène météorologique comme sur Jupiter, c'est à dire qu'elle est si grande, qu'on pourrait y mettre la Terre toute entière dedans ! </p>
+			<p align="justify">Son atmosphère est composée de 80 % de dihydrogène, de 19 % d'hélium, de 1 % de méthane. C'est le méthane qui donne sa couleur bleue-verte à la planète, quant aux nuages blancs que l'on peut observer, ce sont probablement des cristaux de méthane. </p>
+			<p align="justify">La seule observation d'Uranus pour l'instant a été réalisée par Voyager 2</p>
+		</text>
+	</astre>
+	<!--Planètes Naines-->
+	<astre typeetoile="NaineJaune" distanceMIN="48" distanceMAX="50" diametreMIN="0" diametreMAX="1" demigrandaxeMIN="24" demigrandaxeMAX="26" rotationMIN="150" rotationMAX="160" plasat="Planete" type="Tellurique" jupiter="Présent" h2oMIN="0" h2oMAX="0" co2MIN="0" co2MAX="0" o2MIN="0" o2MAX="0" n2MIN="0" n2MAX="0" nh3MIN="0" nh3MAX="0" ch4MIN="0" ch4MAX="0" so2MIN="0" so2MAX="0" h2MIN="0" h2MAX="0" heMIN="0" heMAX="0" autregazMIN="0" autregazMAX="0" albedoMIN="58" albedoMAX="62" pressionMIN="0" pressionMAX="0" AdjustEffetSerreMIN="0" AdjustEffetSerreMAX="0">
+		<nom>Pluton</nom>
+		<img>Pluton</img>
+		<text>
+			<p align="justify">Pluton est une planète naine, elle a été en quelque sorte « déclassée » car elle fait parti des objets de la ceinture de Kuiper, une ceinture d'astéroïdes, elle a un diamètre d’environ 2300km, elle est presque 4 fois plus petite que la Terre, et est même plus petite que la lune</p>
+			<p align="justify">Mais elle est presque aussi dense que notre planète, avec un poids de 0,013 x 10²¹ tonnes, soit 0,002 % du poids de la Terre. Elle a une orbite très elliptique d'une excentricité de 25%, ce qui signifie que dans une année, lorsqu’elle arrive en aphélie (c'est-à-dire le moment où elle est le plus loin du soleil), on a l’impression que le soleil s’éloigne brutalement. De Pluton le soleil ressemble à une petite bille de lumière brillante.</p>
+			<p align="justify">Elle tourne sur elle-même en 6,4 jours terrestres soit 153h 17 minutes</p>
+			<p align="justify">Nous avons peu d’information sur l’atmosphère ténue de Pluton terrestres d'une pression d'environ 3 x10-⁶ bars soit 0,00003 bars, essentiellement composée d’azote et de méthane, il y fait une température d’environ -233°C. </p>
+			<p align="justify">Pluton est très éloignée du soleil, à une distance moyenne de 39,48 unités atmosphériques, elle est donc pratiquement plongée dans l’obscurité, elle n’a plus d’activité interne, c'est-à-dire qu’il n’y a plus de volcanisme sur Pluton. </p>
+			<p align="justify">Pluton comme la plupart des planètes tourne d’ouest en est (ce qui fait qu’on y voit le soleil se lever à l’est et se coucher à l’ouest) comme sur Terre.</p>
+			<p align="justify">Elle a 5 satellites, dont Charon, qui fait la moitié de sa taille, de fait, certains astronomes considèrent le système Pluton-Charon comme une planète double</p>
+			<p align="justify">Son albédo, c'est-à-dire la fraction de lumière qui est réfléchie vers l’espace, est d’environ 50%, c’est donc un objet qui est  assez brillant.</p>
+			<p align="justify">La sonde new horizon lancée en  2006, arrivera en orbite de pluton durant l’été 2015, et embarque à son bord divers appareils de mesure ainsi que les cendres de l’astronome qui l’a découverte</p>
+		</text>
+	</astre>
+	<astre typeetoile="NaineJaune" distanceMIN="2" distanceMAX="3" diametreMIN="0" diametreMAX="0" demigrandaxeMIN="0" demigrandaxeMAX="100" rotationMIN="0" rotationMAX="10000" plasat="Planete" type="Tellurique" jupiter="Présent" h2oMIN="0" h2oMAX="0" co2MIN="0" co2MAX="0" o2MIN="0" o2MAX="0" n2MIN="0" n2MAX="0" nh3MIN="0" nh3MAX="0" ch4MIN="0" ch4MAX="0" so2MIN="0" so2MAX="0" h2MIN="0" h2MAX="0" heMIN="0" heMAX="0" autregazMIN="0" autregazMAX="0" albedoMIN="8" albedoMAX="10" pressionMIN="0" pressionMAX="0" AdjustEffetSerreMIN="0" AdjustEffetSerreMAX="0">
+		<nom>Cérès</nom>
+		<img>Ceres</img>
+		<text>
+			<p align="justify">Cérès est une planète naine découverte dans la ceinture d'astéroïde entre Mars et Jupiter, à une distance de 2,8 unités astronomiques Elle a un diamètre d’environ 950km, elle est presque 4 fois plus petite que la Lune et 7 % de la taille de la Terre.</p>
+			<p align="justify">Le télescope spatial Hershel a mis en évidence de la vapeur d’eau autour de Cérès et il a localisé deux points brillants, probablement leur source. Cette découverte a été très diffusée, car ces points brillants ont attiré l'attention du grand public, et a circulé sur les réseaux sociaux avec la mention « qui a oublié la lumière ? » La question de savoir s’il y a de l‘eau liquide  reste entière, on pense de plus en plus à un lac souterrain ce qui pourrait être une découverte d’une importance capitale.</p>
+			<p align="justify">Elle tourne sur elle-même en 9h10min</p>
+			<p align="justify">l'atmosphère sur Cérès est très faible, car la planète n'est pas assez massive, avec ses seulement 0,00946 x 10 ²⁰ tonnes, soit 0,01 % de la masse de la terre. il y fait une température d’environ -106°C. </p>
+			<p align="justify">Avec un albédo de 9 % c'est un objet très sombre...  La sonde dawn, arrivée en orbite autour de Cérès   le 6 mars 2015 analyse la planète et nous révèlera peut être certains de ses mystères</p>
+		</text>
+	</astre>
+	<!--Satellites -->
+	<astre typeetoile="NaineJaune" distanceMIN="1" distanceMAX="1" diametreMIN="0" diametreMAX="0" demigrandaxeMIN="4" demigrandaxeMAX="6" rotationMIN="648" rotationMAX="672" plasat="Satellite" type="Tellurique" jupiter="Présent" h2oMIN="0" h2oMAX="0" co2MIN="0" co2MAX="0" o2MIN="0" o2MAX="0" n2MIN="0" n2MAX="0" nh3MIN="0" nh3MAX="0" ch4MIN="0" ch4MAX="0" so2MIN="0" so2MAX="0" h2MIN="0" h2MAX="0" heMIN="0" heMAX="0" autregazMIN="0" autregazMAX="0" albedoMIN="11" albedoMAX="13" pressionMIN="0" pressionMAX="0" AdjustEffetSerreMIN="0" AdjustEffetSerreMAX="0">
+		<nom>Lune</nom>
+		<img>Lune</img>
+		<text>
+			<p align="justify">La lune, notre satellite a un diamètre de 3476km, environ trois fois plus petite que la terre,( 27% sa taille)</p>
+			<p align="justify">Depuis la Terre, on ne voit qu’une seule face de la lune : tournant sur elle-même en 27 heures 32 , elle fait le tour de la terre également en 27 heures et 32 minutes, ce qui fait qu’elle nous présente toujours le même côté, on dit qu’elle est synchrone avec la Terre, ceci est du à sa proximité d’avec la Terre, et aux effets de marées. </p>
+			<p align="justify">Distante du soleil d’à peu près 1 unité astronomique, elle est éloignée de la terre de 384 400 km et s’éloigne chaque année d’environ 4cm par an.</p>
+			<p align="justify">Avec une atmosphère extrêmement ténue (si ténue qu’elle est presque inexistante, compter 0 de pression sur la console, en réalité la pression est de 3 x 10 -15 bars), elle n’est pas protégée des astéroïdes qui s’écrasent sur sa surface, formant les cratères que nous pouvons observer depuis la Terre.</p>
+			<p align="justify">Son orbite est elliptique, avec une excentricité de 5 % c’est-à-dire qu’il y a 5% de différence entre le moment où la lune est au plus proche de la Terre, et le moment où elle en est le plus éloignée. L’excentricité de la Terre par rapport au soleil, est lui de 1,7 % (c’est la donnée à prendre en compte pour la console)</p>
+			<p align="justify">Avec sa masse de 0,07x10²¹ tonnes, elle fait à peine 1% du poids de la Terre ! </p>
+			<p align="justify">Son albédo moyen,  c'est-à-dire la fraction de lumière qui est réfléchie vers l’espace est de 12% ce qui en fait un objet plutôt sombre, à la surface de la  lune il fait une température moyenne de -77°C, Mais il ya une grosse différence entre la température de la surface éclairée : 123°C, et la surface sombre : -223°C !</p>
+			<p align="justify">Seul astre autre que la Terre, où l’être humain s’est rendu en personne, en 1969, la lune est régulièrement observée par des sondes et des satellites, on a posé à sa surface des miroirs qui permettent, à l’aide de laser, de calculer la distance Terre-Lune, c’est ainsi qu’on sait précisément de combien qu’elle s’éloigne.</p>
+		</text>
+	</astre>
+	<astre typeetoile="NaineJaune" distanceMIN="9" distanceMAX="10" diametreMIN="0" diametreMAX="0" demigrandaxeMIN="4" demigrandaxeMAX="6" rotationMIN="336" rotationMAX="384" plasat="Satellite" type="Tellurique" jupiter="Présent" h2oMIN="0" h2oMAX="0" co2MIN="0" co2MAX="0" o2MIN="0" o2MAX="0" n2MIN="88" n2MAX="92" nh3MIN="0" nh3MAX="2" ch4MIN="8" ch4MAX="10" so2MIN="0" so2MAX="0" h2MIN="0" h2MAX="0" heMIN="0" heMAX="0" autregazMIN="0" autregazMAX="4" albedoMIN="0" albedoMAX="100" pressionMIN="1" pressionMAX="2" AdjustEffetSerreMIN="10" AdjustEffetSerreMAX="14">
+		<nom>Titan</nom>
+		<img>Titan</img>
+		<text>
+			<p align="justify">Titan est le plus gros satellite de Saturne et le deuxième plus gros satellite du système solaire, orbitant à environ 1,200 millions de kilomètres de Saturne, Il a un diamètre de 5150Km,  soit plus gros que notre lune ou que Mercure, avec 37% de la taille de la Terre, un peu plus grand que Mercure.</p>
+			<p align="justify">Titan tourne sur lui-même en 15 jours et 22 heures, il fait le tour de Saturne également en 15 jours et 22 heures ce qui fait qu’il présente toujours le même côté à la planète, on dit qu’il est synchrone avec Saturne, ceci est du à sa proximité d’avec la planète géante, et aux effets de marées. </p>
+			<p align="justify">Distante du soleil d’à peu près 10 unités astronomiques.</p>
+			<p align="justify">Titan possède une atmosphère qui fait de lui un astre particulièrement intéressant : Avec 1,5 bar de pression, elle est composée comme sur Terre, majoritairement de diazote (N2) à 90%, de Méthane (CH4) à 9%, et d’autres gaz, dont de l’Amoniac (NH3) à 1% On y a trouvé des molécules supposant que Titan porte les briques nécessaires à la formation de la vie. A sa surface, on trouve des hydrocarbures liquides, comme du méthane, il y a même sur Titan, des pluies de méthane, en raison de sa basse température (-180°C)</p>
+			<p align="justify">Son orbite légèrement excentrée, avec une excentricité de 2,8 % c’est-à-dire qu’il y a 2,8 % de différence entre le moment où Titan est au plus proche de Saturne, et le moment où elle en est le plus éloignée. L’excentricité de Jupiter par rapport au soleil, est lui de 9,5% (c’est la donnée à prendre en compte pour la console)</p>
+			<p align="justify">Avec sa masse de 0,13 x 10²¹ tonnes, elle fait 2,2% de la masse terrestre</p>
+			<p align="justify">Au vue de l’intérêt qui est manifesté pour Titan, il a été exploré de nombreuses fois notamment en 2005 par le module Huygens qui a analysé l’atmosphère de Titan</p>
+			<p align="justify">La Nasa se penche sur la possibilité d’envoyer un sous marin pour visiter les lacs de méthanes de Titan.</p>
+		</text>
+	</astre>
+	<astre typeetoile="NaineJaune" distanceMIN="19" distanceMAX="20" diametreMIN="0" diametreMAX="0" demigrandaxeMIN="4" demigrandaxeMAX="6" rotationMIN="192" rotationMAX="220" plasat="Satellite" type="Tellurique" jupiter="Présent" h2oMIN="0" h2oMAX="0" co2MIN="0" co2MAX="0" o2MIN="0" o2MAX="0" n2MIN="0" n2MAX="0" nh3MIN="0" nh3MAX="0" ch4MIN="0" ch4MAX="0" so2MIN="0" so2MAX="0" h2MIN="0" h2MAX="0" heMIN="0" heMAX="0" autregazMIN="0" autregazMAX="0" albedoMIN="34" albedoMAX="36" pressionMIN="0" pressionMAX="0" AdjustEffetSerreMIN="0" AdjustEffetSerreMAX="0">
+		<nom>Titania</nom>
+		<img>Titania</img>
+		<text>
+			<p align="justify">Titania est le plus gros satellite d’Uranus, orbitant à environ 436 mille kilomètres d’Uranus, elle a un diamètre de 1577Km,  soit 12% de la taille de la Terre.</p>
+			<p align="justify">Titania tourne sur elle-même en 8,7 jours, il fait le tour d’Uranus également en 8,7jours ce qui fait qu’il présente toujours le même côté à la planète, on dit qu’il est synchrone avec Uranus, ceci est du à sa proximité d’avec la planète géante, et aux effets de marées. </p>
+			<p align="justify">Distante du soleil d’à peu près 19 unités astronomiques.</p>
+			<p align="justify">Titania a une pression extrêmement faible (proche de zéro)</p>
+			<p align="justify">Son orbite est presque elliptique, avec une excentricité d’ 0.1 % c’est-à-dire qu’il y a 0.1 % de différence entre le moment où Titania est au plus proche d’Uranus, et le moment où elle en est le plus éloignée. L’excentricité d’Uranus par rapport au soleil, est elle de 5% (c’est la donnée à prendre en compte pour la console)</p>
+			<p align="justify">Avec sa masse de 3.5 x 1018 tonnes, elle fait moins d’1% de la masse terrestre</p>
+		</text>
+	</astre>
+	<astre typeetoile="NaineJaune" distanceMIN="9" distanceMAX="10" diametreMIN="0" diametreMAX="0" demigrandaxeMIN="4" demigrandaxeMAX="6" rotationMIN="20" rotationMAX="24" plasat="Satellite" type="Tellurique" jupiter="Présent" h2oMIN="0" h2oMAX="0" co2MIN="0" co2MAX="0" o2MIN="0" o2MAX="0" n2MIN="0" n2MAX="0" nh3MIN="0" nh3MAX="0" ch4MIN="0" ch4MAX="0" so2MIN="0" so2MAX="0" h2MIN="0" h2MAX="0" heMIN="0" heMAX="0" autregazMIN="0" autregazMAX="0" albedoMIN="98" albedoMAX="100" pressionMIN="0" pressionMAX="0" AdjustEffetSerreMIN="0" AdjustEffetSerreMAX="0">
+		<nom>Mimas</nom>
+		<img>Mimas</img>
+		<text>
+			<p align="justify">Mimas est le satellite le plus proche de Saturne, orbitant à environ 185 mille kilomètres de Saturne, il est si proche de Saturne que la planète semblerait, vue de sa surface aussi grosse que 44 lunes ! Avec un  diamètre de 415Km,  il fait à peine 3% de la taille de la Terre ! </p>
+			<p align="justify">Situé à l’intérieur des anneaux de saturne, il est probable qu’il baigne dans leur lumière, on ne peut qu’imaginer le spectacle.</p>
+			<p align="justify">Mimas comporte le plus gros cratère d’impact connu dans le système solaire, avec un diamètre de 130 km et appelé cratère d’Hershel, est-ce pour cette particularité ou parce que, contrairement aux autres satellites proches des géantes, il n’y a pas de volcanisme sur ce satellite, ce qui fait de Mimas un astre dit « mort » qu’il a ainsi inspiré l’étoile noire.</p>
+			<p align="justify">Le cratère d’hershel a des bords qui dépassent les 5000 mètres d’altitude, et son pic central atteint 6000 mètres</p>
+			<p align="justify">Mamas tourne sur lui-même en 22 heures 30, il fait le tour de Saturne également en 22 heures ce qui fait qu’il présente toujours le même côté à la planète, on dit qu’il est synchrone avec Saturne, ceci est du à sa proximité d’avec la planète géante, et aux effets de marées. </p>
+			<p align="justify">Distante du soleil d’à peu près 10 unités astronomiques, sa température avoisine les -200°C</p>
+			<p align="justify">Avec sa masse de 3.84 x 10^16 tonnes, elle fait moins de 0.01% de la masse terrestre, compter zéro sur la console. </p>
+		</text>
+	</astre>
+	<astre typeetoile="NaineJaune" distanceMIN="30" distanceMAX="31" diametreMIN="0" diametreMAX="1" demigrandaxeMIN="0" demigrandaxeMAX="2" rotationMIN="132" rotationMAX="156" plasat="Satellite" type="Tellurique" jupiter="Présent" h2oMIN="0" h2oMAX="0" co2MIN="0" co2MAX="0" o2MIN="0" o2MAX="0" n2MIN="0" n2MAX="0" nh3MIN="0" nh3MAX="0" ch4MIN="0" ch4MAX="0" so2MIN="0" so2MAX="0" h2MIN="0" h2MAX="0" heMIN="0" heMAX="0" autregazMIN="0" autregazMAX="0" albedoMIN="68" albedoMAX="72" pressionMIN="0" pressionMAX="0" AdjustEffetSerreMIN="0" AdjustEffetSerreMAX="0">
+		<nom>Triton</nom>
+		<img>Triton</img>
+		<text>
+			<p align="justify">Triton est le plus gros satellite de Neptune environ 355 mille kilomètres de Neptune, Avec un diamètre de 2707Km, il fait 21% de la taille de la Terre. </p>
+			<p align="justify">C’est un astre qui a une orbite rétrograde. Sans doute ce satellite vient-il de la ceinture de Kuiper et a-t-il été capturé par Neptune lorsqu’il s’est approché. Les forts effets de marée qu’il subit le feront probablement explosés, formant un anneau autour de Neptune, ou bien il s’écrasera sur la Géante gazeuse</p>
+			<p align="justify">Triton tourne sur lui-même en 5,9 jour, il fait le tour de Neptune  également en 5,9 jours ce qui fait qu’il présente toujours le même côté à la planète, on dit qu’il est synchrone avec Neptune, ceci est du à sa proximité d’avec la planète géante, et aux effets de marées.</p>
+			<p align="justify">Il a une orbite parfaitement circulaire. </p>
+			<p align="justify">Triton a une atmosphère très ténue proche de zéro, (10-6 bar) composée d’azote et de méthane.</p>
+			<p align="justify">Distante du soleil d’à peu près 30 unités astronomiques, sa température avoisine les -235°C</p>
+			<p align="justify">Avec sa masse de 2.14 x 1016 tonnes, elle fait 0.4% de la masse terrestre, compter zéro sur la console. </p>
+			<p align="justify">Les seules choses que l’on connaisse de Triton viennent de la sonde Voyager 2, et il est connu pour avoir du volcanisme actif.</p>
+		</text>
+	</astre>
+	<astre typeetoile="NaineJaune" distanceMIN="9" distanceMAX="10" diametreMIN="0" diametreMAX="0" demigrandaxeMIN="4" demigrandaxeMAX="6" rotationMIN="25" rotationMAX="35" plasat="Satellite" type="Tellurique" jupiter="Présent" h2oMIN="0" h2oMAX="0" co2MIN="0" co2MAX="0" o2MIN="0" o2MAX="0" n2MIN="0" n2MAX="0" nh3MIN="0" nh3MAX="0" ch4MIN="0" ch4MAX="0" so2MIN="0" so2MAX="0" h2MIN="0" h2MAX="0" heMIN="0" heMAX="0" autregazMIN="0" autregazMAX="0" albedoMIN="98" albedoMAX="100" pressionMIN="0" pressionMAX="0" AdjustEffetSerreMIN="0" AdjustEffetSerreMAX="0">
+		<nom>Encelade</nom>
+		<img>Encelade</img>
+		<text>
+			<p align="justify">Satellite de Saturne, orbitant au sein de son anneau le plus éloigné de la planète, avec un diamètre d’environ 500Km, soit 4 % de la taille de la Terre. C’est l’objet qui est le plus brillant du système solaire avec 99% d’albédo ce qui représente la quantité de lumière réfléchie vers l’espace, car elle est recouverte de glace fraiche.</p>
+			<p align="justify">Encelade tourne sur elle-même en 1,37 jours et elle fait le tour de Saturne également en 1.37 jours ce qui fait qu’elle présente toujours le même côté à la planète, on dit qu’elle est synchrone avec Saturne ceci est du à sa proximité d’avec la planète géante, et aux effets de marées. </p>
+			<p align="justify">Distante du soleil d’à peu près 9,5 unités astronomiques, elle est éloignée de Saturne d'un peu plus de 238 000 km de Saturne</p>
+			<p align="justify">La sonde Cassini a repéré des geysers sur Encelade et son activité géologique est très complexe, et on peut supposer que sous la croûte ainsi déformée, se trouve du liquide, probablement de l’eau. Réchauffée par les phénomènes de marée du à la proximité de Saturne. Sa température de surface est d’environ -200°C</p>
+			<p align="justify">Une fine atmosphère (Compter 0 de pression sur la console) composée essentiellement de vapeur d’eau et de dihydrogène.</p>
+			<p align="justify">Son orbite presque elliptique, avec une excentricité de 0,4% c’est-à-dire qu’il y a 0,4% de différence entre le moment où Encelade est au plus proche de Saturne, et le moment où elle en est le plus éloignée. L’excentricité de Saturne par rapport au soleil, est lui de 9,5% (c’est la donnée à prendre en compte pour la console)</p>
+			<p align="justify">Avec sa masse de 1 x1017 tonnes, elle fait moins d’un pour cent de la masse terrestre</p>
+			<p align="justify">Voyager 2 a été le premier à visiter Encelade, et, suite à ses découvertes, on a décidé d’envoyer la sonde Cassini Huygens faire un tour auprès de l’astre mystérieux. </p>
+		</text>
+	</astre>
+	<astre typeetoile="NaineJaune" distanceMIN="5" distanceMAX="6" diametreMIN="0" diametreMAX="1" demigrandaxeMIN="3" demigrandaxeMAX="5" rotationMIN="168" rotationMAX="192" plasat="Satellite" type="Tellurique" jupiter="Présent" h2oMIN="0" h2oMAX="0" co2MIN="0" co2MAX="0" o2MIN="0" o2MAX="0" n2MIN="0" n2MAX="0" nh3MIN="0" nh3MAX="0" ch4MIN="0" ch4MAX="0" so2MIN="0" so2MAX="0" h2MIN="0" h2MAX="0" heMIN="0" heMAX="0" autregazMIN="0" autregazMAX="0" albedoMIN="42" albedoMAX="44" pressionMIN="0" pressionMAX="0" AdjustEffetSerreMIN="0" AdjustEffetSerreMAX="0">
+		<nom>Ganymède</nom>
+		<img>Ganymede</img>
+		<text>
+			<p align="justify">7ème Satellite de Jupiter, Ganymède est aussi le troisième satellite galiléen, découvert, donc, par Galilée. C'est le plus gros satellite du système solaire, avec un diamètre de 5262Km,  soit plus que grande que Mercure et 41 % de la taille de la Terre)</p>
+			<p align="justify">Ganymède tourne sur elle-même en 7,16 jours et elle fait le tour de Jupiter également en 7,16 jours ce qui fait qu’elle présente toujours le même côté à la planète, on dit qu’elle est synchrone avec Jupiter, ceci est du à sa proximité d’avec la planète géante, et aux effets de marées. </p>
+			<p align="justify">Distante du soleil d’à peu près 5,1 unités astronomiques, elle est éloignée de Jupiter d'un peu plus d'un million de kilomètres</p>
+			<p align="justify">une fine atmosphère (Compter 0 de pression sur la console, en réalité la pression est de 1 x 10 -6 bars) composée essentiellement de dioxygène et d'ozone.</p>
+			<p align="justify">Son orbite presque elliptique, avec une excentricité de 0,1 % c’est-à-dire qu’il y a 0,1 % de différence entre le moment où Ganymède est au plus proche de Jupiter, et le moment où elle en est le plus éloignée. L’excentricité de Jupiter par rapport au soleil, est lui de 4% (c’est la donnée à prendre en compte pour la console)</p>
+			<p align="justify">Avec sa masse de 1,4 x10²¹ tonnes, elle fait 25% de la masse terrestre</p>
+			<p align="justify">Son albédo moyen,  c'est-à-dire la fraction de lumière qui est réfléchie vers l’espace est de 43% ce qui en fait un objet plutôt brillant du à la glace qui se trouve à sa surface. Il y fait une température moyenne de -150°C.</p>
+			<p align="justify">Ganymède, selon des observations récentes du télescope Hubble possèderait un océan souterrain tellement immense qu'il serait supérieure à la quantité d'eau des océans terrestres.</p>
+			<p align="justify">De nombreuses sondes ont déjà exploré les satellites de jupiter depuis 1973, la dernière en date étant la sonde Galileo,  puis un rapide passage de Cassini Huygens qui était en route vers Saturne. Une prochaine mission est prévue qui ira explorer de plus près les satellites glacés de Jupiter du nom de JUICE pour Jupiter ICy moon Explorer prévue pour être lancé en 2022.</p>
+		</text>
+	</astre>
+	<astre typeetoile="NaineJaune" distanceMIN="5" distanceMAX="6" diametreMIN="0" diametreMAX="1" demigrandaxeMIN="3" demigrandaxeMAX="5" rotationMIN="384" rotationMAX="408" plasat="Satellite" type="Tellurique" jupiter="Présent" h2oMIN="0" h2oMAX="0" co2MIN="0" co2MAX="0" o2MIN="0" o2MAX="0" n2MIN="0" n2MAX="0" nh3MIN="0" nh3MAX="0" ch4MIN="0" ch4MAX="0" so2MIN="0" so2MAX="0" h2MIN="0" h2MAX="0" heMIN="0" heMAX="0" autregazMIN="0" autregazMAX="0" albedoMIN="18" albedoMAX="20" pressionMIN="0" pressionMAX="0" AdjustEffetSerreMIN="0" AdjustEffetSerreMAX="0">
+		<nom>Callisto</nom>
+		<img>Callisto</img>
+		<text>
+			<p align="justify">Satellite Galiléen, orbitant à environ 1,883 million de kilomètres de Jupiter, découvert, donc, par Galilée. Il a un diamètre de 4806Km,  soit  37% de la taille de la Terre, un peu plus grand que Mercure.</p>
+			<p align="justify">Callisto tourne sur elle-même en 16,7 jours et, elle fait le tour de Jupiter également en 16,7 jours ce qui fait qu’elle présente toujours le même côté à la planète, on dit qu’elle est synchrone avec Jupiter, ceci est du à sa proximité d’avec la planète géante, et aux effets de marées. </p>
+			<p align="justify">Distante du soleil d’à peu près 5,1 unités astronomiques.</p>
+			<p align="justify">Contrairement à d'autres satellites de Jupiter, l'albédo de Callisto est très faible, 19% l'albédo étant la quantité de lumière réfléchie par la planète, et en fait un astre très sombre.</p>
+			<p align="justify">Criblée de cratères, Callisto présente également des zones glacées </p>
+			<p align="justify">Trop légère pour avoir une véritable atmosphère (Compter 0 de pression sur la console) on trouve toutefois un peu de dioxyde de carbone qui l'entoure, du à la légère activité de la planète.</p>
+			<p align="justify">Sous sa surface, on suppose qu'elle pourrait avoir des océans sous sa surface. </p>
+			<p align="justify">Son orbite presque elliptique, avec une excentricité de 0,7 % c’est-à-dire qu’il y a 0,7 % de différence entre le moment où Europe est au plus proche de Jupiter, et le moment où elle en est le plus éloignée. L’excentricité de Jupiter par rapport au soleil, est lui de 4% (c’est la donnée à prendre en compte pour la console)</p>
+			<p align="justify">Avec sa masse de 1,08 x 10²¹ tonnes, elle fait 18% de la masse terrestre</p>
+			<p align="justify">A sa surface  il fait une température moyenne de -155°C.</p>
+			<p align="justify">De nombreuses sondes ont déjà exploré les satellites de Jupiter depuis 1973, la dernière en date étant la sonde Galileo,  puis un rapide passage de Cassini Huygens qui était en route vers Saturne. Une prochaine mission est prévue qui ira explorer de plus près les satellites glacés de Jupiter du nom de JUICE pour Jupiter ICy moon Explorer prévue pour être lancé en 2022.</p>
+		</text>
+	</astre>
+	<astre typeetoile="NaineJaune" distanceMIN="5" distanceMAX="6" diametreMIN="1" diametreMAX="2" demigrandaxeMIN="3" demigrandaxeMAX="5" rotationMIN="36" rotationMAX="48" plasat="Satellite" type="Tellurique" jupiter="Présent" h2oMIN="0" h2oMAX="0" co2MIN="0" co2MAX="0" o2MIN="0" o2MAX="0" n2MIN="0" n2MAX="0" nh3MIN="0" nh3MAX="0" ch4MIN="0" ch4MAX="0" so2MIN="0" so2MAX="0" h2MIN="0" h2MAX="0" heMIN="0" heMAX="0" autregazMIN="0" autregazMAX="0" albedoMIN="62" albedoMAX="64" pressionMIN="0" pressionMAX="0" AdjustEffetSerreMIN="0" AdjustEffetSerreMAX="0">
+		<nom>Io</nom>
+		<img>Io</img>
+		<text>
+			<p align="justify">Il est le plus proche des satellites de Jupiter et le premier satellite Galiléen, orbitant à environ 422 mille kilomètres de Jupiter, découvert, donc, par Galilée. C'est le 3ème plus gros satellite de Jupiter, avec un diamètre de 3630Km,  soit  28% de la taille de la Terre</p>
+			<p align="justify">Ganymède tourne sur elle-même en 1,7 jours (soit 42h30) et, elle fait le tour de Jupiter également en 1,7 jours ce qui fait qu’elle présente toujours le même côté à la planète, on dit qu’elle est synchrone avec Jupiter, ceci est du à sa proximité d’avec la planète géante, et aux effets de marées. </p>
+			<p align="justify">Distante du soleil d’à peu près 5,1 unités astronomiques.</p>
+			<p align="justify">Trop légère pour avoir une véritable atmosphère (Compter 0 de pression sur la console) elle est en permanence entourée de gaz dus aux émissions de son volcanisme très actif. On trouve donc à sa proximité des gaz du type monoxyde et dioxyde de soufre, de soufre et même de sel. De fait, son atmosphère est très variable.</p>
+			<p align="justify">C'est l'astre le plus soumis au volcanisme du à sa proximité avec Jupiter, les effets de marée agissent en effet sur le satellite comme un pétrin sur de la pâte à pain... Sa surface ne montre pas de cratère car elle est sans cesse renouvelée par le volcanisme</p>
+			<p align="justify">Son orbite presque elliptique, avec une excentricité de 0,4 % c’est-à-dire qu’il y a 0,4 % de différence entre le moment où Ganymède est au plus proche de Jupiter, et le moment où elle en est le plus éloignée. L’excentricité de Jupiter par rapport au soleil, est lui de 4% (c’est la donnée à prendre en compte pour la console)</p>
+			<p align="justify">Avec sa masse de 0,089.10²¹ tonnes, elle fait 1,5% de la masse terrestre</p>
+			<p align="justify">Son albédo moyen,  c'est-à-dire la fraction de lumière qui est réfléchie vers l’espace est de 63% ce qui en fait un objet très brillant. A sa surface  il fait une température moyenne de -150°C, mais il fait bien sûr plus chaud près des volcans, avec des coulées de lave pouvant atteindre les 1500°C. Le soufre qui est émis par le volcanisme lui donne son étrange couleur, en effet, le soufre change de couleur en fonction de sa température, aussi on a des zones jaunes, orange ou verte, et tout cela contribue à lui donner un air de pizza pas cuite...</p>
+			<p align="justify">De nombreuses sondes ont déjà exploré les satellites de jupiter depuis 1973, la dernière en date étant la sonde Galileo,  puis un rapide passage de Cassini Huygens qui était en route vers Saturne. Une prochaine mission est prévue qui ira explorer de plus près les satellites glacés de Jupiter du nom de JUICE pour Jupiter ICy moon Explorer prévue pour être lancé en 2022.</p>
+		</text>
+	</astre>
+	<astre typeetoile="NaineJaune" distanceMIN="5" distanceMAX="6" diametreMIN="0" diametreMAX="1" demigrandaxeMIN="3" demigrandaxeMAX="5" rotationMIN="72" rotationMAX="96" plasat="Satellite" type="Tellurique" jupiter="Présent" h2oMIN="0" h2oMAX="0" co2MIN="0" co2MAX="0" o2MIN="0" o2MAX="0" n2MIN="0" n2MAX="0" nh3MIN="0" nh3MAX="0" ch4MIN="0" ch4MAX="0" so2MIN="0" so2MAX="0" h2MIN="0" h2MAX="0" heMIN="0" heMAX="0" autregazMIN="0" autregazMAX="0" albedoMIN="65" albedoMAX="69" pressionMIN="0" pressionMAX="0" AdjustEffetSerreMIN="0" AdjustEffetSerreMAX="0">
+		<nom>Europe</nom>
+		<img>Europe</img>
+		<text>
+			<p align="justify">Satellite Galiléen, orbitant à environ 671 mille kilomètres de Jupiter, découvert, donc, par Galilée. Il a un diamètre de 3138Km,  soit  24% de la taille de la Terre, ce qui est équivalent à celle de la lune. </p>
+			<p align="justify">Europe tourne sur elle-même en 3,5 jours et, elle fait le tour de Jupiter également en 3,5 jours ce qui fait qu’elle présente toujours le même côté à la planète, on dit qu’elle est synchrone avec Jupiter, ceci est du à sa proximité d’avec la planète géante, et aux effets de marées. </p>
+			<p align="justify">Distante du soleil d’à peu près 5,1 unités astronomiques.</p>
+			<p align="justify">Recouverte de glace ce qui lui vaut un albédo très élevé de 68 % l'albédo étant la quantité de lumière réfléchie par la planète, et en fait un astre très brillant. Sous sa glace, un océan d'eau liquide s'est formé, d'une profondeur de 50 à 100 km. Europe pourrait contenir 2 à 3  fois plus d'eau que les océans de notre Terre. Sa surface, souvent renouvelée par une activité volcanique car elle a peu d'impact météoritique à sa surface</p>
+			<p align="justify">Trop légère pour avoir une véritable atmosphère (Compter 0 de pression sur la console) on trouve toutefois un peu d'oxygène qui l'entoure.</p>
+			<p align="justify">Son orbite presque elliptique, avec une excentricité de 0,9 % c’est-à-dire qu’il y a 0,9 % de différence entre le moment où Europe est au plus proche de Jupiter, et le moment où elle en est le plus éloignée. L’excentricité de Jupiter par rapport au soleil, est elle de 4% (c’est la donnée à prendre en compte pour la console)</p>
+			<p align="justify">Avec sa masse de 0,048 x 10²¹ tonnes, elle fait 0,8% de la masse terrestre</p>
+			<p align="justify">A sa surface  il fait une température moyenne de -150°C.</p>
+			<p align="justify">De nombreuses sondes ont déjà exploré les satellites de Jupiter depuis 1973, la dernière en date étant la sonde Galileo,  puis un rapide passage de Cassini Huygens qui était en route vers Saturne. Une prochaine mission est prévue qui ira explorer de plus près les satellites glacés de Jupiter du nom de JUICE pour Jupiter ICy moon Explorer prévue pour être lancé en 2022.</p>
+		</text>
+	</astre>
+
+	<!--Exo planète -->
+	<astre typeetoile="NaineRouge" distanceMIN="0" distanceMAX="1" diametreMIN="1" diametreMAX="2" demigrandaxeMIN="0" demigrandaxeMAX="15" rotationMIN="0" rotationMAX="10000" plasat="Planete" type="Tellurique" jupiter="Absent" h2oMIN="0" h2oMAX="100" co2MIN="0" co2MAX="100" o2MIN="0" o2MAX="0" n2MIN="0" n2MAX="100" nh3MIN="0" nh3MAX="0" ch4MIN="0" ch4MAX="0" so2MIN="0" so2MAX="0" h2MIN="0" h2MAX="0" heMIN="0" heMAX="0" autregazMIN="0" autregazMAX="100" albedoMIN="30" albedoMAX="34" pressionMIN="0" pressionMAX="5" AdjustEffetSerreMIN="0" AdjustEffetSerreMAX="500">
+		<nom>Kepler 186 f</nom>
+		<img>Kepler186f</img>
+		<text>
+			<p align="justify">Kepler 186f, est la première planète dans la zone d'habitabilité d'une autre étoile que notre soleil, c'est à dire Kepler186 de la constellation du Cygne.</p>
+			<p align="justify">D'un diamètre équatoriale d'environ 14800 km, la planète ressemble énormément à notre Terre.</p>
+			<p align="justify">Elle fait le tour de son étoile, une naine rouge, Kepler 186) en 130 jours.</p>
+			<p align="justify">Avec une atmosphère visiblement semblable à celle de notre planète bleue, sa température moyenne au sol est proche de 0° C pour une pression allant de 0,5 à 5 bars.</p>
+			<p align="justify">Les saisons dans ses deux hémisphères sont dues à son inclinaison de 90°. En effet, l’hémisphère nord reçoit plus de chaleur du soleil en été, car il est incliné vers le soleil à cette période, mais en hiver, c’est l’hémisphère sud qui reçoit le plus de chaleur, ce qui fait que de l’autre coté du monde, il fait froid en été et chaud en hiver. Son orbite est légèrement elliptique, avec une excentricité de 4,8 %, c'est-à-dire qu’il y a une infime différence d’4,8% entre le moment où elle est la plus proche de Kepler 186f et le moment où elle est la plus éloignée.</p>
+			<p align="justify">Kepler 186f est la cinquième du système Kepler 186 et également la seule à se situer dans la zone d'habitabilité.</p>
+			<p align="justify">Son albédo moyen, c'est-à-dire la fraction de lumière qui est réfléchie vers l’espace est de 32%</p>
+			<p align="justify">Son atmosphère serait composée de diazote, et de dioxyde de carbone, d'eau et d’autres gaz, le dioxyde de carbone et l'eau étant responsables de l’effet de serre.</p>
+			<p align="justify">Si nous ne possédons que très peu d'information sur Kepler 186f, c'est parce que la planète se situe à environ 490 années lumière. A cette distance, et si nous allions à 253000 km/h (record de vitesse interplanétaire détenue par la sonde Helios 2) il nous faudrait prés de 2 millions d'années pour arriver à destination. </p>
+		</text>
+	</astre>
+
+
+	<!--Tests -->
+	<astre typeetoile="NainesBlanches" distanceMIN="0" distanceMAX="5" diametreMIN="2" diametreMAX="3" demigrandaxeMIN="56" demigrandaxeMAX="60" rotationMIN="2000" rotationMAX="2500" plasat="Planete" type="Gazeuse" jupiter="Absent" h2oMIN="0" h2oMAX="100" co2MIN="0" co2MAX="100" o2MIN="0" o2MAX="0" n2MIN="0" n2MAX="100" nh3MIN="8" nh3MAX="9" ch4MIN="0" ch4MAX="0" so2MIN="0" so2MAX="0" h2MIN="0" h2MAX="0" heMIN="0" heMAX="0" autregazMIN="0" autregazMAX="100" albedoMIN="30" albedoMAX="34" pressionMIN="0" pressionMAX="5" AdjustEffetSerreMIN="0" AdjustEffetSerreMAX="500" >
+		<nom>test</nom>
+		<img>Saturne</img>
+		<text>test</text>
+	</astre>
+
+	<!--Conditions Impossibles par rapport aux étoiles -->
+	<ConditionsImpossibles cause="etoile" type="NaineBrune"><p align='center'><b><font size='+10' color='#000033'>Les Naines Brunes</font></b></p><br /><p align='justify'>Les Naines Brunes sont des étoiles parmis les plus froides. La zone d'habitabilité, est de par la taille et la chaleur que la planète dégage, est beaucoup trop rapprochée se qui fait qu'une planète deviendrait très vite synchrone avec son étoile. Une planète synchrone ne peux pas porter la vie car la différence de température entre la face éclairée et la face sombre serait trop importante.</p></ConditionsImpossibles>
+	<ConditionsImpossibles cause="etoile" type="GeanteBleue"><p align='center'><b><font size='+10' color='#000033'>Les Geantes Bleues</font></b></p><br /><p align='justify'>Les Geantes Bleues sont des étoiles parmis les plus chaudes. La zone d'habitabilité est donc loin de l'étoile. Cependant, une Géante bleue ne reste dans cet état que 100 millions d'années. A l'échelle humaine c'est énorme, mais à l'échelle de l'univers c'est très court, trop court.</p><p align="justify">Entre le moment de sa création et l'apparition de la première forme de vie sur Terre, il s'est écoulé 700 millions d'années. La durée de vie de cette étoile est donc trop court pour permettre l'apparition de la vie telle qu'on la connait et ce, peu importe sa forme.</p><p>Nous ne sommes jamais allés explorer une planète dont l'étoile est une géante bleue donc nous n'avons aucune preuve que la vie est impossible.</p></ConditionsImpossibles>
+	<ConditionsImpossibles cause="etoile" type="SuperGeanteRouge"><p align='center'><b><font size='+10' color='#000033'>Les Supers Geantes Rouges</font></b></p><br /><p align='justify'>Les Supers Geantes Rouges sont des étoiles parmis les plus grosses. La zone d'habitabilité est donc loin de l'étoile. Cependant, une Super Geante Rouge ne reste dans cet état que 50 millions d'années. A l'échelle humaine c'est énorme, mais à l'échelle de l'univers c'est très court, trop court.</p><p align="justify">Entre le moment de sa création et l'apparition de la première forme de vie sur Terre, il s'est écoulé 700 millions d'années. La durée de vie de cette étoile est donc trop court pour permettre l'apparition de la vie telle qu'on la connait et ce, peu importe sa forme.</p><p>Nous ne sommes jamais allés explorer une planète dont l'étoile est une Super Geante Rouge donc nous n'avons aucune preuve que la vie est impossible.</p></ConditionsImpossibles>
+	<ConditionsImpossibles cause="etoile" type="GeanteRouge"><p align='center'><b><font size='+10' color='#000033'>Les Geantes Rouges</font></b></p><br /><p align='justify'>Les Geantes Rouges sont des étoiles très grosses et relativement peu chaude. La zone d'habitabilité est donc loin de l'étoile. Cependant, une Geante Rouge ne reste dans cet état que 30 millions d'années. A l'échelle humaine c'est énorme, mais à l'échelle de l'univers c'est très court, trop court.</p><p align="justify">Entre le moment de sa création et l'apparition de la première forme de vie sur Terre, il s'est écoulé 700 millions d'années. La durée de vie de cette étoile est donc trop court pour permettre l'apparition de la vie telle qu'on la connait et ce, peu importe sa forme.</p><p>Nous ne sommes jamais allés explorer une planète dont l'étoile est une Geante Rouge donc nous n'avons aucune preuve que la vie est impossible.</p></ConditionsImpossibles>
+
+	<!--Bactéries-->
+	<bacterie sourceCarbone="CO2" sourceCarbone2="" Lumiere="Oui">
+		<nom>Cyanobactérie</nom>
+		<img>cyano</img>
+		<produit>O2</produit>
+		<utilise>Sucre</utilise>
+		<text>Une cyanobactérie respire le Dioxyde de Carbone contenu dans son environnement. Grâce à celà, elle produit elle même du sucre qu'elle va dégrader en énergie grâce à la lumière qu'elle reçoit. Cette opération génére des dechets : le Dioxygène !</text>
+	</bacterie>
+	<bacterie sourceCarbone="Sucre" sourceCarbone2="" Lumiere="Non">
+		<nom>Animal</nom>
+		<img>animal</img>
+		<produit>CO2</produit>
+		<utilise>Animal</utilise>
+		<text>Un animal respire le contenu de son environnement. Il doit cependant alimenter son organisme avec du sucre (produit par des végétaux ou d'autres animaux qui en ont manger). Ce sucre sera dégradé en énergie grâce au gaz respiré ce qui générera des déchets : d'autres gaz !</text>
+	</bacterie>
+	<bacterie sourceCarbone="H2" sourceCarbone2="SO2" Lumiere="Oui">
+		<nom>Chloroflexus aurantiacus</nom>
+		<img>chloro</img>
+		<produit>O2</produit>
+		<utilise>Lumière et H2 / S</utilise>
+		<text>Il s'agit d'une bactérie filamenteuse réalisant une forme de photosynthèse. Elle respire du Dihydrogène ou du Sulfite (SO2, SO3, SO42-), afin de produire du Dioxygène. Elle est capable de survivre à de très haute température, pression et degré de salinité. Elle se nourrit donc de lumière et de Dihydrogène (ou de soufre).</text>
+	</bacterie>
+	<bacterie sourceCarbone="SO2" sourceCarbone2="" Lumiere="Non">
+		<nom>Archeoglobus lithotrophicus</nom>
+		<img>archeo</img>
+		<produit>H2S</produit>
+		<utilise>Carbone sauf CO2</utilise>
+		<text>L'Archeoglobus lithotrophicus utilise le soufre à la place du Dioxygène pour sa respiration. Elle dégrade le sulfate en sulfite (S2-) ainsi que toute forme de source carbonée pour son énergie (sauf le Dioxyde de Carbone CO2) et rejète du Sulfure d'Hydrogène (H2S).</text>
+	</bacterie>
+	<bacterie sourceCarbone="SO2" sourceCarbone2="" Lumiere="Non">
+		<nom>Methanobacterium formicicum</nom>
+		<img>methano</img>
+		<produit>CH4</produit>
+		<utilise>CO2</utilise>
+		<text>Cette bactérie produit du Méthane (CH4) mais aussi du Dihydrogène (H2). Afin d'avoir l'énergie dont elles ont besoin, elle mange du Dioxyde de Carbone et dégrade à peu près toute les sources de carbone organiques disponibles.</text>
+	</bacterie>
+</astres>
