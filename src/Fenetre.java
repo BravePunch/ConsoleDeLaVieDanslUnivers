@@ -7,7 +7,7 @@ public class Fenetre extends JFrame {
 
 	public Fenetre(){
 		//Définit un titre pour notre fenêtre
-		this.setTitle("Un peu d'astro");
+		this.setTitle("Console de la vie dans l'univers");
 		//Définit sa taille : 800 pixels de large et 600 pixels de haut
 	    this.setSize(800, 600);
 	    //Nous demandons maintenant à notre objet de se positionner au centre
@@ -15,7 +15,7 @@ public class Fenetre extends JFrame {
 	    //Termine le processus lorsqu'on clique sur la croix rouge
 	    this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	    //la fenetre est elle redimensionnable ?
-	    this.setResizable(true);
+	    this.setResizable(false);
 	    // ou doit se trouver la fenetre sur l'écran
 	    // les coordonnées x=0, y=0 représentent le coin supérieur gauche de l'écran
 	    //this.setLocation(0, 0);
