@@ -1,9 +1,14 @@
-import java.awt.Color;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JPanel;
+import java.awt.*;
+import javax.swing.*;
 
 public class Fenetre extends JFrame {
+
+	JSplitPane splitPan;
+	JPanel imagesPan = new JPanel();
+	JPanel boutonPan = new JPanel();
+
+	// BOUTON
+	JButton bouton = new JButton("sent ;)");
 
 	public Fenetre(){
 		//Définit un titre pour notre fenêtre
@@ -22,11 +27,7 @@ public class Fenetre extends JFrame {
 	    //garder la fenetre au premier plan :
 	    //this.setAlwaysOnTop(true);
 
-	    // ici on va commencer à mettre des objets
-	    //Instanciation d'un objet JPanel
-	    JPanel pan = new JPanel();
-	    //Définition de sa couleur de fond
-	    //pan.setBackground(Color.ORANGE);
+
 
 
 	    Etoile e1 = new Etoile("GeanteBleue");
@@ -41,7 +42,13 @@ public class Fenetre extends JFrame {
 	    //On prévient notre JFrame que notre JPanel sera son content pane
 		//pan.add(new DrawImages(p1.get$_type(), 20, 20));
 
-	    this.setContentPane(DI);
+		imagesPan.update(DI);
+		boutonPan.add(bouton);
+		boutonPan.setBackground(Color.LIGHT_GRAY);
+
+		splitPan = new JSplitPane(JSplitPane.VERTICAL_SPLIT, imagesPan, boutonPan);
+
+		this.getContentPane().add(splitPan, BorderLayout.CENTER);
 
 	    //Et enfin, la rendre visible
 	    this.setVisible(true);
